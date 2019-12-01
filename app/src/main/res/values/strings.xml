@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FeelSafe</string>
+    <string name="distress_btn">I feel unsafe!</string>
+    <string name="police">Call police</string>
+</resources>
